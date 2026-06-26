@@ -12,7 +12,6 @@ export default function Hero() {
           <p>SERIOUSLY GOOD</p>
           <p className="text-right">BASED IN — GLOBAL</p>
         </div>
-
         {/* Hero Title Focus */}
         <div className="my-16 md:my-20">
           <h1 className="text-[12vw] md:text-[9.5vw] font-black leading-[0.85] tracking-tighter uppercase text-left selection:bg-brand-main">
